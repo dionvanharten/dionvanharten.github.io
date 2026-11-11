@@ -1,5 +1,18 @@
 ---
-title: "aboutme"
+title: "About me"
+image: picture.jpg
+about:
+  template: broadside
 ---
 
 Some information about me!
+
+test
+
+test
+
+test
+
+test
+
+test
