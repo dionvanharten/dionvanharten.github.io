@@ -1,6 +1,7 @@
 ---
 title: "Dion van Harten"
 image: picture.jpg
+resources: "cv.pdf"
 about:
   template: jolla
   image-shape: round
@@ -18,6 +19,4 @@ about:
 ---
 
 This is my personal website.
-$$
-1+1=2 \alpha
-$$
+

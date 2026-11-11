@@ -2,4 +2,7 @@
 title: "CV"
 ---
 
-## I will add my CV here
+```{=html}
+<object data="cv.pdf" type="application/pdf" width="100%" height="800px">
+  <p>Unable to display PDF inline. <a href="files/cv.pdf">Download</a> instead.</p>
+</object>
