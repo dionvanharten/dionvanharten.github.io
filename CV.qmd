@@ -2,6 +2,8 @@
 title: "CV"
 ---
 
+[Download My CV <i class="bi bi-download"></i>](cv.pdf){.btn .btn-primary .mb-4}
+
 ```{=html}
 <object data="cv.pdf" type="application/pdf" width="100%" height="800px">
   <p>Unable to display PDF inline. <a href="files/cv.pdf">Download</a> instead.</p>
