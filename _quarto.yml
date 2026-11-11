@@ -12,9 +12,10 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: sandstone
+    fontsize: 1.5rem
+    mainfont: Libron
+    linkcolor: "#CCA56C"
     css: styles.css
     toc: true
 
