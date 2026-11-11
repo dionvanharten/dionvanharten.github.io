@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: aboutme.qmd
+        text: About me
       - href: cv.pdf
         text: CV
         target: _blank
